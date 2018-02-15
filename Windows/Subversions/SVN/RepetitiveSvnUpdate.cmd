@@ -1,6 +1,7 @@
+::cd directory_with_code
 title Repetitive Svn Update...
 echo Repetitive Svn Update...
-cd directory_with_code
+cd
 :loo
 ::pause
 echo update
