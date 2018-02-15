@@ -21,4 +21,4 @@ exit
 :success
 echo Pushed (:
 pause
-exit
+exit 
